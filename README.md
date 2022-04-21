@@ -1,3 +1,7 @@
+# USC EE 450 project
+
+# Instructor: Ali Zahid
+
 # Covid-19-Reservation-System
 
 
